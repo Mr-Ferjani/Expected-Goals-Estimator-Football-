@@ -9,6 +9,7 @@ prosepect palyers.
 
 # Code and Resources Used
 
-**Python Version**: 3.7.
+**Python Version**: 3.7
+
 **Packages**: Pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle
 
