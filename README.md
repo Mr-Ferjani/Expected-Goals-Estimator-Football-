@@ -12,6 +12,10 @@ prosepect palyers.
 **Python Version:** 3.7\
 **Packages:** Pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle
 
+# Web Scrapping
+
+Utilized `pandas.read_html` 
+
 # Model Performance 
 
 * **Linear Regression:** MAE = 0.027
