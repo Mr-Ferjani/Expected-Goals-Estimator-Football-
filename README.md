@@ -45,6 +45,7 @@ After scrapping the data, I needed to clean it up to make it more usable to the 
 I looked at the distribution and value counts for different variables. Below are a few highlights of the conducted analysis.
 
 ![alt text](https://github.com/Mr-Ferjani/Expected-Goals-Estimator-Football-/blob/main/Top%20Scoring%20Leagues.png)
+![alt text](https://github.com/Mr-Ferjani/Expected-Goals-Estimator-Football-/blob/main/Top%20Scoring%20Teams.png)
 
 
 # Model Performance 
