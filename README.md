@@ -47,6 +47,16 @@ I looked at the distribution and value counts for different variables. Below are
 ![alt text](https://github.com/Mr-Ferjani/Expected-Goals-Estimator-Football-/blob/main/Top%20Scoring%20Leagues.png)
 ![alt text](https://github.com/Mr-Ferjani/Expected-Goals-Estimator-Football-/blob/main/Top%20Scoring%20Teams.png)
 
+# Model Building
+
+Firstly, I transformed categorical variables into dummy variables. Also, I split the data into train and test sets with a test size of 20%. 
+
+I tried three different models and evaluated them using Mean Absolute Error (MAE). I chose MAE because it is relatively easy to interpert.
+
+* **Linear Regression:** Baseline for the model.
+* **Lasso Regression:** Because if sparse data from categorical variables, I thought a normalized regression like lasso would be effective.
+* **Random Forest:** RF deals well with sparsity.
+
 
 # Model Performance 
 
