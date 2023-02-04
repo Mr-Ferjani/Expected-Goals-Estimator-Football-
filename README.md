@@ -14,8 +14,8 @@ prosepect palyers.
 
 # Model Performance 
 
-* Linear Regression: MAE = 0.027\
-* Lasso Regression: MAE = 0.027\
+* Linear Regression: MAE = 0.027
+* Lasso Regression: MAE = 0.027
 * Random Forest: MAE = 0.063
 
 
