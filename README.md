@@ -1,7 +1,7 @@
-# Expected Goals Esrimator (Football): Project Overview
+# Expected Goals Estimator (Football): Project Overview
 
 * Created a tool that estimates the number of goals that will be scored throughout the season to help football scouts with the recruitment of 
-prosepect palyers.
+prospect palyers.
 * Scraped around 3000 players statistics playing in the top 5 leagues from FBref.com using Pandas.
 * Engineered features to give more edge for players playing in top teams and in leagues that usually concedes more goals.
 * Optimized Linear, Lasso Regressions, and Random Forest Regressors using GridsearchCV to discern the best model.
