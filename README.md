@@ -54,5 +54,7 @@ I looked at the distribution and value counts for different variables. Below are
 * **Lasso Regression:** MAE = 0.027
 * **Random Forest:** MAE = 0.063
 
+# Productionization
 
+In this Step, I built a flask API endpoint that was hosted on a local webserver. The API endpoint takes a request with a list of values from a job listing and returns an estimated scored goals.
 
