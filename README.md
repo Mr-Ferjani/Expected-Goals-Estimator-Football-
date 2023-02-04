@@ -1,4 +1,4 @@
-#Expected Goals Esrimator (Football): Project Overview
+# Expected Goals Esrimator (Football): Project Overview
 
 * Created a tool that estimates the number of goals that will be scored throughout the season to help football scouts with the recruitment of 
 prosepect palyers.
