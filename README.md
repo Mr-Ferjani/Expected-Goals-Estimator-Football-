@@ -12,3 +12,11 @@ prosepect palyers.
 **Python Version:** 3.7\
 **Packages:** Pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle\
 
+# Model Performance 
+
+* Linear Regression: MAE = 0.027\
+* Lasso Regression: MAE = 0.027\
+* Random Forest: MAE = 0.063
+
+
+
